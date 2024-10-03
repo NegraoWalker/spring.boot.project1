@@ -1,0 +1,1 @@
+# Repositório criado para implementar um sistema que calcula o salário líquido de um empregado.
